@@ -1,2 +1,2 @@
-# Assignment-4
+# Whale Analysis
 Whale_returns
